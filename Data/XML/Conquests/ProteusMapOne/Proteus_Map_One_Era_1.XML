@@ -604,6 +604,7 @@
 		<AI_Player_Control>Hostile, None</AI_Player_Control>
 		<AI_Player_Control>Hutt_Cartels, None</AI_Player_Control>
 		<AI_Player_Control>Imperial_Proteus, None</AI_Player_Control>
+		<AI_Player_Control>Proteus_Two, None</AI_Player_Control>
 		<AI_Player_Control>Independent_Forces, None</AI_Player_Control>
 		<AI_Player_Control>Killik_Hives, None</AI_Player_Control>
 		<AI_Player_Control>Mandalorians, None</AI_Player_Control>
@@ -625,6 +626,7 @@
 		<Markup_Filename>Hostile, DefaultGalacticHints</Markup_Filename>
 		<Markup_Filename>Hutt_Cartels, HuttGalacticHints</Markup_Filename>
 		<Markup_Filename>Imperial_Proteus, DefaultGalacticHints</Markup_Filename>
+		<Markup_Filename>Proteus_Two, DefaultGalacticHints</Markup_Filename>
 		<Markup_Filename>Independent_Forces, DefaultGalacticHints</Markup_Filename>
 		<Markup_Filename>Killik_Hives, DefaultGalacticHints</Markup_Filename>
 		<Markup_Filename>Mandalorians, DefaultGalacticHints</Markup_Filename>
@@ -648,7 +650,8 @@
 			Eriadu_Authority, Conquests\Factions\Story_Plots_Generic_Eriadu_Authority.xml,
 			Hapes_Consortium, Conquests\Factions\Story_Plots_Generic_Hapes_Consortium.xml,
 			Pentastar, Conquests\Factions\Story_Plots_Generic_Pentastar.xml,
-			Imperial_Proteus, Conquests\Factions\Story_Plots_Generic_Imperial_Proteus.xml</Story_Name>
+			Imperial_Proteus, Conquests\Factions\Story_Plots_Generic_Imperial_Proteus.xml,
+			Proteus_Two, Conquests\Factions\Story_Plots_Generic_Imperial_Proteus.xml</Story_Name>
 		<Starting_Credits>Chiss, 10000</Starting_Credits>
 		<Starting_Tech_Level>Chiss, 1</Starting_Tech_Level>
 		<Max_Tech_Level>Chiss, 5</Max_Tech_Level>
@@ -682,6 +685,9 @@
 		<Starting_Credits>Imperial_Proteus, 10000</Starting_Credits>
 		<Starting_Tech_Level>Imperial_Proteus, 1</Starting_Tech_Level>
 		<Max_Tech_Level>Imperial_Proteus, 5</Max_Tech_Level>
+		<Starting_Credits>Proteus_Two, 10000</Starting_Credits>
+		<Starting_Tech_Level>Proteus_Two, 1</Starting_Tech_Level>
+		<Max_Tech_Level>Proteus_Two, 5</Max_Tech_Level>
 		<Starting_Credits>Independent_Forces, 10000</Starting_Credits>
 		<Starting_Tech_Level>Independent_Forces, 1</Starting_Tech_Level>
 		<Max_Tech_Level>Independent_Forces, 5</Max_Tech_Level>
@@ -1529,6 +1535,7 @@
 		<AI_Player_Control>Hostile, None</AI_Player_Control>
 		<AI_Player_Control>Hutt_Cartels, None</AI_Player_Control>
 		<AI_Player_Control>Imperial_Proteus, None</AI_Player_Control>
+		<AI_Player_Control>Proteus_Two, None</AI_Player_Control>
 		<AI_Player_Control>Independent_Forces, None</AI_Player_Control>
 		<AI_Player_Control>Killik_Hives, None</AI_Player_Control>
 		<AI_Player_Control>Mandalorians, None</AI_Player_Control>
@@ -1550,6 +1557,7 @@
 		<Markup_Filename>Hostile, DefaultGalacticHints</Markup_Filename>
 		<Markup_Filename>Hutt_Cartels, HuttGalacticHints</Markup_Filename>
 		<Markup_Filename>Imperial_Proteus, DefaultGalacticHints</Markup_Filename>
+		<Markup_Filename>Proteus_Two, DefaultGalacticHints</Markup_Filename>
 		<Markup_Filename>Independent_Forces, DefaultGalacticHints</Markup_Filename>
 		<Markup_Filename>Killik_Hives, DefaultGalacticHints</Markup_Filename>
 		<Markup_Filename>Mandalorians, DefaultGalacticHints</Markup_Filename>
@@ -1573,7 +1581,8 @@ Corporate_Sector, Conquests\Factions\Story_Plots_Generic_Corporate_Sector.xml,
 Eriadu_Authority, Conquests\Factions\Story_Plots_Generic_Eriadu_Authority.xml,
 Hapes_Consortium, Conquests\Factions\Story_Plots_Generic_Hapes_Consortium.xml,
 Pentastar, Conquests\Factions\Story_Plots_Generic_Pentastar.xml,
-Imperial_Proteus, Conquests\Factions\Story_Plots_Generic_Imperial_Proteus.xml</Story_Name>
+			Imperial_Proteus, Conquests\Factions\Story_Plots_Generic_Imperial_Proteus.xml,
+			Proteus_Two, Conquests\Factions\Story_Plots_Generic_Imperial_Proteus.xml</Story_Name>
 		<Starting_Credits>Chiss, 10000</Starting_Credits>
 		<Starting_Tech_Level>Chiss, 1</Starting_Tech_Level>
 		<Max_Tech_Level>Chiss, 5</Max_Tech_Level>
@@ -1607,6 +1616,9 @@ Imperial_Proteus, Conquests\Factions\Story_Plots_Generic_Imperial_Proteus.xml</S
 		<Starting_Credits>Imperial_Proteus, 10000</Starting_Credits>
 		<Starting_Tech_Level>Imperial_Proteus, 1</Starting_Tech_Level>
 		<Max_Tech_Level>Imperial_Proteus, 5</Max_Tech_Level>
+		<Starting_Credits>Proteus_Two, 10000</Starting_Credits>
+		<Starting_Tech_Level>Proteus_Two, 1</Starting_Tech_Level>
+		<Max_Tech_Level>Proteus_Two, 5</Max_Tech_Level>
 		<Starting_Credits>Independent_Forces, 10000</Starting_Credits>
 		<Starting_Tech_Level>Independent_Forces, 1</Starting_Tech_Level>
 		<Max_Tech_Level>Independent_Forces, 5</Max_Tech_Level>
@@ -2454,6 +2466,7 @@ Imperial_Proteus, Conquests\Factions\Story_Plots_Generic_Imperial_Proteus.xml</S
 		<AI_Player_Control>Hostile, None</AI_Player_Control>
 		<AI_Player_Control>Hutt_Cartels, None</AI_Player_Control>
 		<AI_Player_Control>Imperial_Proteus, None</AI_Player_Control>
+		<AI_Player_Control>Proteus_Two, None</AI_Player_Control>
 		<AI_Player_Control>Independent_Forces, None</AI_Player_Control>
 		<AI_Player_Control>Killik_Hives, None</AI_Player_Control>
 		<AI_Player_Control>Mandalorians, None</AI_Player_Control>
@@ -2475,6 +2488,7 @@ Imperial_Proteus, Conquests\Factions\Story_Plots_Generic_Imperial_Proteus.xml</S
 		<Markup_Filename>Hostile, DefaultGalacticHints</Markup_Filename>
 		<Markup_Filename>Hutt_Cartels, HuttGalacticHints</Markup_Filename>
 		<Markup_Filename>Imperial_Proteus, DefaultGalacticHints</Markup_Filename>
+		<Markup_Filename>Proteus_Two, DefaultGalacticHints</Markup_Filename>
 		<Markup_Filename>Independent_Forces, DefaultGalacticHints</Markup_Filename>
 		<Markup_Filename>Killik_Hives, DefaultGalacticHints</Markup_Filename>
 		<Markup_Filename>Mandalorians, DefaultGalacticHints</Markup_Filename>
@@ -2498,7 +2512,8 @@ Corporate_Sector, Conquests\Factions\Story_Plots_Generic_Corporate_Sector.xml,
 Eriadu_Authority, Conquests\Factions\Story_Plots_Generic_Eriadu_Authority.xml,
 Hapes_Consortium, Conquests\Factions\Story_Plots_Generic_Hapes_Consortium.xml,
 Pentastar, Conquests\Factions\Story_Plots_Generic_Pentastar.xml,
-Imperial_Proteus, Conquests\Factions\Story_Plots_Generic_Imperial_Proteus.xml</Story_Name>
+			Imperial_Proteus, Conquests\Factions\Story_Plots_Generic_Imperial_Proteus.xml,
+			Proteus_Two, Conquests\Factions\Story_Plots_Generic_Imperial_Proteus.xml</Story_Name>
 		<Starting_Credits>Chiss, 10000</Starting_Credits>
 		<Starting_Tech_Level>Chiss, 1</Starting_Tech_Level>
 		<Max_Tech_Level>Chiss, 5</Max_Tech_Level>
@@ -2532,6 +2547,9 @@ Imperial_Proteus, Conquests\Factions\Story_Plots_Generic_Imperial_Proteus.xml</S
 		<Starting_Credits>Imperial_Proteus, 10000</Starting_Credits>
 		<Starting_Tech_Level>Imperial_Proteus, 1</Starting_Tech_Level>
 		<Max_Tech_Level>Imperial_Proteus, 5</Max_Tech_Level>
+		<Starting_Credits>Proteus_Two, 10000</Starting_Credits>
+		<Starting_Tech_Level>Proteus_Two, 1</Starting_Tech_Level>
+		<Max_Tech_Level>Proteus_Two, 5</Max_Tech_Level>
 		<Starting_Credits>Independent_Forces, 10000</Starting_Credits>
 		<Starting_Tech_Level>Independent_Forces, 1</Starting_Tech_Level>
 		<Max_Tech_Level>Independent_Forces, 5</Max_Tech_Level>
@@ -3389,6 +3407,7 @@ Imperial_Proteus, Conquests\Factions\Story_Plots_Generic_Imperial_Proteus.xml</S
 		<AI_Player_Control>Warlords, None</AI_Player_Control>
 		<AI_Player_Control>Yevetha, None</AI_Player_Control>
 		<AI_Player_Control>Zsinj_Empire, None</AI_Player_Control>
+		<AI_Player_Control>Proteus_Two, None</AI_Player_Control>
 		<Markup_Filename>Chiss, DefaultGalacticHints</Markup_Filename>
 		<Markup_Filename>Corellia, DefaultGalacticHints</Markup_Filename>
 		<Markup_Filename>Corporate_Sector, DefaultGalacticHints</Markup_Filename>
@@ -3400,6 +3419,7 @@ Imperial_Proteus, Conquests\Factions\Story_Plots_Generic_Imperial_Proteus.xml</S
 		<Markup_Filename>Hostile, DefaultGalacticHints</Markup_Filename>
 		<Markup_Filename>Hutt_Cartels, HuttGalacticHints</Markup_Filename>
 		<Markup_Filename>Imperial_Proteus, DefaultGalacticHints</Markup_Filename>
+		<Markup_Filename>Proteus_Two, DefaultGalacticHints</Markup_Filename>
 		<Markup_Filename>Independent_Forces, DefaultGalacticHints</Markup_Filename>
 		<Markup_Filename>Killik_Hives, DefaultGalacticHints</Markup_Filename>
 		<Markup_Filename>Mandalorians, DefaultGalacticHints</Markup_Filename>
@@ -3423,7 +3443,8 @@ Corporate_Sector, Conquests\Factions\Story_Plots_Generic_Corporate_Sector.xml,
 Eriadu_Authority, Conquests\Factions\Story_Plots_Generic_Eriadu_Authority.xml,
 Hapes_Consortium, Conquests\Factions\Story_Plots_Generic_Hapes_Consortium.xml,
 Pentastar, Conquests\Factions\Story_Plots_Generic_Pentastar.xml,
-Imperial_Proteus, Conquests\Factions\Story_Plots_Generic_Imperial_Proteus.xml</Story_Name>
+			Imperial_Proteus, Conquests\Factions\Story_Plots_Generic_Imperial_Proteus.xml,
+			Proteus_Two, Conquests\Factions\Story_Plots_Generic_Imperial_Proteus.xml</Story_Name>
 		<Starting_Credits>Chiss, 10000</Starting_Credits>
 		<Starting_Tech_Level>Chiss, 1</Starting_Tech_Level>
 		<Max_Tech_Level>Chiss, 5</Max_Tech_Level>
@@ -3457,6 +3478,9 @@ Imperial_Proteus, Conquests\Factions\Story_Plots_Generic_Imperial_Proteus.xml</S
 		<Starting_Credits>Imperial_Proteus, 10000</Starting_Credits>
 		<Starting_Tech_Level>Imperial_Proteus, 1</Starting_Tech_Level>
 		<Max_Tech_Level>Imperial_Proteus, 5</Max_Tech_Level>
+		<Starting_Credits>Proteus_Two, 10000</Starting_Credits>
+		<Starting_Tech_Level>Proteus_Two, 1</Starting_Tech_Level>
+		<Max_Tech_Level>Proteus_Two, 5</Max_Tech_Level>
 		<Starting_Credits>Independent_Forces, 10000</Starting_Credits>
 		<Starting_Tech_Level>Independent_Forces, 1</Starting_Tech_Level>
 		<Max_Tech_Level>Independent_Forces, 5</Max_Tech_Level>
@@ -4304,6 +4328,7 @@ Imperial_Proteus, Conquests\Factions\Story_Plots_Generic_Imperial_Proteus.xml</S
 		<AI_Player_Control>Hostile, None</AI_Player_Control>
 		<AI_Player_Control>Hutt_Cartels, None</AI_Player_Control>
 		<AI_Player_Control>Imperial_Proteus, None</AI_Player_Control>
+		<AI_Player_Control>Proteus_Two, None</AI_Player_Control>
 		<AI_Player_Control>Independent_Forces, None</AI_Player_Control>
 		<AI_Player_Control>Killik_Hives, None</AI_Player_Control>
 		<AI_Player_Control>Mandalorians, None</AI_Player_Control>
@@ -4325,6 +4350,7 @@ Imperial_Proteus, Conquests\Factions\Story_Plots_Generic_Imperial_Proteus.xml</S
 		<Markup_Filename>Hostile, DefaultGalacticHints</Markup_Filename>
 		<Markup_Filename>Hutt_Cartels, HuttGalacticHints</Markup_Filename>
 		<Markup_Filename>Imperial_Proteus, DefaultGalacticHints</Markup_Filename>
+		<Markup_Filename>Proteus_Two, DefaultGalacticHints</Markup_Filename>
 		<Markup_Filename>Independent_Forces, DefaultGalacticHints</Markup_Filename>
 		<Markup_Filename>Killik_Hives, DefaultGalacticHints</Markup_Filename>
 		<Markup_Filename>Mandalorians, DefaultGalacticHints</Markup_Filename>
@@ -4348,7 +4374,8 @@ Corporate_Sector, Conquests\Factions\Story_Plots_Generic_Corporate_Sector.xml,
 Eriadu_Authority, Conquests\Factions\Story_Plots_Generic_Eriadu_Authority.xml,
 Hapes_Consortium, Conquests\Factions\Story_Plots_Generic_Hapes_Consortium.xml,
 Pentastar, Conquests\Factions\Story_Plots_Generic_Pentastar.xml,
-Imperial_Proteus, Conquests\Factions\Story_Plots_Generic_Imperial_Proteus.xml</Story_Name>
+			Imperial_Proteus, Conquests\Factions\Story_Plots_Generic_Imperial_Proteus.xml,
+			Proteus_Two, Conquests\Factions\Story_Plots_Generic_Imperial_Proteus.xml</Story_Name>
 		<Starting_Credits>Chiss, 10000</Starting_Credits>
 		<Starting_Tech_Level>Chiss, 1</Starting_Tech_Level>
 		<Max_Tech_Level>Chiss, 5</Max_Tech_Level>
@@ -4382,6 +4409,9 @@ Imperial_Proteus, Conquests\Factions\Story_Plots_Generic_Imperial_Proteus.xml</S
 		<Starting_Credits>Imperial_Proteus, 10000</Starting_Credits>
 		<Starting_Tech_Level>Imperial_Proteus, 1</Starting_Tech_Level>
 		<Max_Tech_Level>Imperial_Proteus, 5</Max_Tech_Level>
+		<Starting_Credits>Proteus_Two, 10000</Starting_Credits>
+		<Starting_Tech_Level>Proteus_Two, 1</Starting_Tech_Level>
+		<Max_Tech_Level>Proteus_Two, 5</Max_Tech_Level>
 		<Starting_Credits>Independent_Forces, 10000</Starting_Credits>
 		<Starting_Tech_Level>Independent_Forces, 1</Starting_Tech_Level>
 		<Max_Tech_Level>Independent_Forces, 5</Max_Tech_Level>
@@ -5229,6 +5259,7 @@ Imperial_Proteus, Conquests\Factions\Story_Plots_Generic_Imperial_Proteus.xml</S
 		<AI_Player_Control>Hostile, None</AI_Player_Control>
 		<AI_Player_Control>Hutt_Cartels, None</AI_Player_Control>
 		<AI_Player_Control>Imperial_Proteus, None</AI_Player_Control>
+		<AI_Player_Control>Proteus_Two, None</AI_Player_Control>
 		<AI_Player_Control>Independent_Forces, None</AI_Player_Control>
 		<AI_Player_Control>Killik_Hives, None</AI_Player_Control>
 		<AI_Player_Control>Mandalorians, None</AI_Player_Control>
@@ -5250,6 +5281,7 @@ Imperial_Proteus, Conquests\Factions\Story_Plots_Generic_Imperial_Proteus.xml</S
 		<Markup_Filename>Hostile, DefaultGalacticHints</Markup_Filename>
 		<Markup_Filename>Hutt_Cartels, HuttGalacticHints</Markup_Filename>
 		<Markup_Filename>Imperial_Proteus, DefaultGalacticHints</Markup_Filename>
+		<Markup_Filename>Proteus_Two, DefaultGalacticHints</Markup_Filename>
 		<Markup_Filename>Independent_Forces, DefaultGalacticHints</Markup_Filename>
 		<Markup_Filename>Killik_Hives, DefaultGalacticHints</Markup_Filename>
 		<Markup_Filename>Mandalorians, DefaultGalacticHints</Markup_Filename>
@@ -5273,7 +5305,8 @@ Corporate_Sector, Conquests\Factions\Story_Plots_Generic_Corporate_Sector.xml,
 Eriadu_Authority, Conquests\Factions\Story_Plots_Generic_Eriadu_Authority.xml,
 Hapes_Consortium, Conquests\Factions\Story_Plots_Generic_Hapes_Consortium.xml,
 Pentastar, Conquests\Factions\Story_Plots_Generic_Pentastar.xml,
-Imperial_Proteus, Conquests\Factions\Story_Plots_Generic_Imperial_Proteus.xml</Story_Name>
+			Imperial_Proteus, Conquests\Factions\Story_Plots_Generic_Imperial_Proteus.xml,
+			Proteus_Two, Conquests\Factions\Story_Plots_Generic_Imperial_Proteus.xml</Story_Name>
 		<Starting_Credits>Chiss, 10000</Starting_Credits>
 		<Starting_Tech_Level>Chiss, 1</Starting_Tech_Level>
 		<Max_Tech_Level>Chiss, 5</Max_Tech_Level>
@@ -5307,6 +5340,9 @@ Imperial_Proteus, Conquests\Factions\Story_Plots_Generic_Imperial_Proteus.xml</S
 		<Starting_Credits>Imperial_Proteus, 10000</Starting_Credits>
 		<Starting_Tech_Level>Imperial_Proteus, 1</Starting_Tech_Level>
 		<Max_Tech_Level>Imperial_Proteus, 5</Max_Tech_Level>
+		<Starting_Credits>Proteus_Two, 10000</Starting_Credits>
+		<Starting_Tech_Level>Proteus_Two, 1</Starting_Tech_Level>
+		<Max_Tech_Level>Proteus_Two, 5</Max_Tech_Level>
 		<Starting_Credits>Independent_Forces, 10000</Starting_Credits>
 		<Starting_Tech_Level>Independent_Forces, 1</Starting_Tech_Level>
 		<Max_Tech_Level>Independent_Forces, 5</Max_Tech_Level>

@@ -19,7 +19,7 @@ function EventManager:new(galactic_conquest)
     self.ConquerKashyyykMaldrood = GenericConquer(self.galactic_conquest,
         "CONQUER_KASHYYYK_MALDROOD",
         "KASHYYYK", {"Greater_Maldrood"},
-        {"Syn_Silooth"}, false, "Syn_Loop", nil, nil, nil, {"IMPERIAL_PROTEUS"})
+        {"Syn_Silooth"}, false, "Syn_Loop", nil, nil, nil, {"IMPERIAL_PROTEUS", "PROTEUS_TWO"})
     -- Added Proteus specific event when they conquer Coruscant, will be used to reward the player. Reward TBD
     self.ProteusConquerCoruscant = GenericConquer(self.galactic_conquest,
         "PROTEUS_CONQUER_CORUSCANT",
